@@ -5,10 +5,10 @@
 ## Assignements:
 
 ### Week 1
-- [GrayScale](https://github.com/abhijithraok/Java/tree/master/Coursera/GrayScale)
+- [GrayScale](https://github.com/abhijithraok/Java-Programming-Solving-Problems-with-Software/blob/master/GrayScale/GrayScale_coursera.java)
 1. Converts an image to grayscale:
 ### Week 2:
-- [Genetest](https://github.com/abhijithraok/Java/tree/master/Coursera/genetest/src)
+- [Genetest](https://github.com/abhijithraok/Java-Programming-Solving-Problems-with-Software/tree/master/genetest/src)
 1. Prints all genes 
 2. Returns the ratio of C’s and G’s in dna as a fraction of the entire strand of DNA
 3. prints all the Strings in sr that are longer than 9 characters
@@ -18,14 +18,14 @@
 7. prints the length of the longest gene in sr
 
 ### Week 3:
-- [Export](https://github.com/abhijithraok/Java/tree/master/Coursera/Export)
-1. [export CSV file](http://www.dukelearntoprogram.com/course2/data/exports.zip)
+- [Export](https://github.com/abhijithraok/Java-Programming-Solving-Problems-with-Software/tree/master/Export)
+1. [Export CSV file](http://www.dukelearntoprogram.com/course2/data/exports.zip)
 2.  CSV Files and Basic Statistics in Java
-- [Weather](https://github.com/abhijithraok/Java/tree/master/Coursera/Weather)
+- [Weather](https://github.com/abhijithraok/Java-Programming-Solving-Problems-with-Software/tree/master/Weather/src)
 1. [Weather CSV file](http://www.dukelearntoprogram.com/course2/data/nc_weather.zip)
 2. Returns the CSVRecord with the coldest temperature in the file
 3. Returns lowest Humidity,Average Temperature
 
 ### Week 4:
-- [Baby Names Mini Project](https://github.com/abhijithraok/Java/tree/master/Coursera/Baby%20Names%20miniProject/src)
+- [Baby Names Mini Project](https://github.com/abhijithraok/Java-Programming-Solving-Problems-with-Software/tree/master/Baby%20Names%20miniProject/src)
 - [Baby Names CSV files](https://github.com/abhijithraok/Java/tree/master/Coursera/Baby%20Names%20miniProject/us_babynames)
